@@ -8,7 +8,7 @@ public class EventPlannerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EventPlannerApplication.class, args);
-		System.out.println("Welcome to Event Planner Project");
+		// System.out.println("Welcome to Event Planner Project");
 	}
 
 }
